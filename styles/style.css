@@ -99,7 +99,7 @@ body{
     font-family: var(--fonte-secundaria);
     font-weight: 600;
 }
-.apresentacao__links__link:hover{
+.apresentacao__links__navagacao:hover{
     background-color: var(--cor-hover);
 }
 
